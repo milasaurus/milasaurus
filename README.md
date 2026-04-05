@@ -1,4 +1,4 @@
-🔭 I’m currently working on AI/ML at Block (Content Gen, Agents, LLMs)
+🔭 I’m currently working on AI/ML at Block
 
 👯 Open to collaborating on agentic workflows and LLM tooling
 
