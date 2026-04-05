@@ -1,4 +1,4 @@
-🔭 I’m currently working on AI/ML at Block
+🔭 I’m currently working on AI/ML at Block (Prev #twtr, ML @ spotify)
 
 👯 Open to collaborating on agentic workflows and LLM tooling
 
