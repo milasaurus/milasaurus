@@ -1,4 +1,4 @@
-🔭 eng lead in AI/ML at Block (Prev twitter, spotify)
+🔭 eng lead in AI/ML at Block (prev twitter, spotify)
 
 👯 open to collaborating 
 
